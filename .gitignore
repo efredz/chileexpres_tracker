@@ -1,0 +1,4 @@
+zappa_settings.json
+*.swp
+*.zip
+.idea/
